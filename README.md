@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyush_07
-- 👀 I’m interested in - Software Developing
-- 🌱 I’m currently learning C Programming and Java
+- 👀 I’m interested in - Data Science and Data Analytics 
+- 🌱 I've opted for Python and SQL programming languages 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - piyushsatpute16@gmail.com
 
