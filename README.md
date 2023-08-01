@@ -5,6 +5,6 @@
 - 📫 How to reach me - piyushsatpute16@gmail.com
 
 <!---
-Ripper016/Ripper016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+puyushsatpute is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
